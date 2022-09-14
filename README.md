@@ -2,6 +2,9 @@
 
 Analysis, clearning, and transformation of the NYC Taxi Trip data (2018) as part of coursework for UCS1629 - Data Warehousing and Data Mining.
 
+- [Python Notebook for Analysis](./Analysis-Cleaning-Transformation_Code.ipynb)
+- [Sumary Report on the Analysis](./Analysis-Cleaning-Transformation_Report.pdf)
+
 ## Dataset
 
 This data set is a subset of the Google BigQuery public datasets - Nyc yellow taxi cab trips data
