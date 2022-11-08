@@ -7,7 +7,7 @@ Analysis, clearning, and transformation of the NYC Taxi Trip data (2018) as part
 
 ## Dataset
 
-This data set is a subset of the Google BigQuery public datasets - Nyc yellow taxi cab trips data
+This dataset is a subset of the Google BigQuery public datasets - Nyc yellow taxi cab trips data
 set containing a random 10,000,000 rows of data. This dataset was extracted and uploaded for the
 purpose of experimenting with and learning regression models for price prediction. There is also a
 lot of room for data cleaning, outliers in the data, and plenty of data to work with for more realistic
