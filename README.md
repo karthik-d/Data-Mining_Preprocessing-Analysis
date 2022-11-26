@@ -1,6 +1,6 @@
-# NYC-Taxi-Trip-Data-Analysis-Cleaning
+# Data-Mining_Preprocessing-Analysis
 
-Analysis, clearning, and transformation of the NYC Taxi Trip data (2018) as part of coursework for UCS1629 - Data Warehousing and Data Mining.
+Clearning, transformation and analysis large datasets as part of coursework for UCS1629: Data Warehousing and Data Mining.
 
 - [Python Notebook for Analysis](./Analysis-Cleaning-Transformation_Code.ipynb)
 - [Sumary Report on the Analysis](./Analysis-Cleaning-Transformation_Report.pdf)
