@@ -1,20 +1,15 @@
-# Data-Mining_Preprocessing-Analysis
+# Data Mining: Preprocessing and Exploratory Data Analysis
 
-Clearning, transformation and analysis large datasets as part of coursework for UCS1629: Data Warehousing and Data Mining.
+Clearning, transformation and analysis large datasets as part of coursework for _UCS1629: Data Warehousing and Data Mining_.
 
 - [Python Notebook for Analysis](./Analysis-Cleaning-Transformation_Code.ipynb)
 - [Sumary Report on the Analysis](./Analysis-Cleaning-Transformation_Report.pdf)
 
 ## Dataset
 
-This dataset is a subset of the Google BigQuery public datasets - Nyc yellow taxi cab trips data
-set containing a random 10,000,000 rows of data. This dataset was extracted and uploaded for the
-purpose of experimenting with and learning regression models for price prediction. There is also a
-lot of room for data cleaning, outliers in the data, and plenty of data to work with for more realistic
-model training, testing, and validation.
+This dataset is a subset of the Google BigQuery public datasets - Nyc yellow taxi cab trips data set containing a random 10,000,000 rows of data. This dataset was extracted and uploaded for the purpose of experimenting with and learning regression models for price prediction. There is also a lot of room for data cleaning, outliers in the data, and plenty of data to work with for more realistic model training, testing, and validation.
 
-
-The analyzed subset of the data is publicly accessible through [Kaggle](https://www.kaggle.com/datasets/neilclack/nyc-taxi-trip-data-google-public-data).
+The analyzed subset of data is publicly accessible through [Kaggle](https://www.kaggle.com/datasets/neilclack/nyc-taxi-trip-data-google-public-data).
 
 ### Data Attributes
 | column            | type     | nullable | description                                                                                                                                                                                                                                          |
